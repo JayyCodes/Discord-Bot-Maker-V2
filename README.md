@@ -1,1 +1,1 @@
-# Discord-Bot-Maker-V2
+# Discord Bot Maker V2
